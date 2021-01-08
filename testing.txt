@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3CF5-759B
+
+ Directory of C:\Users\mohan\Desktop\GitProjects
+
+01/08/2021  10:17 AM    <DIR>          .
+01/08/2021  10:17 AM    <DIR>          ..
+01/08/2021  10:17 AM                 0 testing.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  145,773,404,160 bytes free
